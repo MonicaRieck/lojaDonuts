@@ -1,0 +1,32 @@
+ #cardapio {
+     text-align: center;
+     font-family: 'Poppins', sans-serif;
+     background: rgba(0, 0, 0, 0.1);
+     width: 200px;
+     min-height: 400px;
+     display: block;
+     float: left;
+
+ }
+
+ .botaoDoMenu {
+     font-family: 'Poppins', sans-serif;
+     width: 100px;
+     height: 40px;
+     margin-bottom: 20px;
+ }
+
+ #detalhesDoPedido {
+     font-family: 'Poppins', sans-serif;
+     min-height: 400px;
+     width: 270px;
+     background: rgb(238, 229, 232);
+     display: block;
+     float: left;
+ }
+
+ h1 {
+     padding: 20px;
+     font-family: 'Poppins', sans-serif;
+     text-decoration-line: overline underline;
+ }
